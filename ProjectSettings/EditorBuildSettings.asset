@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu/Menu.unity
+    guid: bd9cbe0f4e64e4da485ead1e5fcce4f9
+  - enabled: 1
+    path: Assets/PiyushFolder/PiyushScene1.unity
+    guid: 245e3e40bc74a4ea5bd4c4bdf4ea1336
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c4e5a3ef81c414e5e9791edfcf6431aa, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 04a24346ee43c47189e21d354054d429, type: 2}
