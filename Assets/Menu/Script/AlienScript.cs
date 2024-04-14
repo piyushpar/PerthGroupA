@@ -32,7 +32,7 @@ public class AlienScript : MonoBehaviour
 
    public void ResetHuman()
    {
-		human.transform.position = new Vector3(0, 0, 0);
+		human.transform.position = new Vector3(0, 2.73, 2.64);
 		human.transform.rotation = Quaternion.Euler(new Vector3(0, 0, 0));
 		human.transform.localScale = new Vector3(1, 1, 1);
    }
