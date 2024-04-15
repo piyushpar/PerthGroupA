@@ -17,6 +17,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Daman/alien.unity
     guid: baa6eb727c489594793360c1bae3d54d
+  - enabled: 1
+    path: Assets/PiyushFolder/PiyushAR.unity
+    guid: 38dd10e806359400faf00b15ab1c5ed8
+  - enabled: 1
+    path: Assets/PiyushFolder/PiyushSelection.unity
+    guid: 4766c9d5de6e147199a3cb059428c41f
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: c4e5a3ef81c414e5e9791edfcf6431aa, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 04a24346ee43c47189e21d354054d429, type: 2}
